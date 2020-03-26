@@ -1,0 +1,4 @@
+Jose Perez, fractura de pierna, C
+Carlos Rosales, dolor estomacal, B
+Elisa Toledo, covid-19, A
+Jose Martinez, gripe comun, E
