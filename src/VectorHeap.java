@@ -1,9 +1,9 @@
-import java.util.PriorityQueue;
-import java.util.Vector;
 /**
  * Extraido de: Duane A Bailey (2007) java structures in java for principled programmer
  * @author Daniela Batz 19214
- *
+ */
+import java.util.Vector;
+/**
  * @param <E>
  */
 public class VectorHeap <E extends Comparable<E>> implements iPriorityQueue<E> {
