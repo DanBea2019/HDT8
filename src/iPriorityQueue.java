@@ -1,3 +1,9 @@
+/**
+ * Extraido de: Duane A Bailey (2007) java structures in java for principled programmer
+ * @author Daniela Batz 19214
+ *
+ * @param <E>
+ */
 
 public interface iPriorityQueue <E extends Comparable<E>> {
 	public E getFirst();
