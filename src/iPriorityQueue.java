@@ -20,6 +20,7 @@ public interface iPriorityQueue <E extends Comparable<E>> {
 
     public void clear();
     // post: removes all elements from queue
+	
 	public E poll();
     // pre: !isEmpty()
     // post: returns the minimum value in priority queue
